@@ -1,0 +1,26 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "Learning Node.js with Express framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/omeroooor/learn-nodejs-express.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express"
+  ],
+  "author": "Omer Abdelmajeed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omeroooor/learn-nodejs-express/issues"
+  },
+  "homepage": "https://github.com/omeroooor/learn-nodejs-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
